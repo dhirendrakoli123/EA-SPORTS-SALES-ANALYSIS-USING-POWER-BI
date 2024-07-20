@@ -2,6 +2,8 @@
 
 [Dataset](https://www.kaggle.com/datasets/rushikeshhiray/esport-earnings/data)
 
+[Dashboard](https://github.com/dhirendrakoli123/EA-SPORTS-SALES-ANALYSIS-USING-POWER-BI/blob/main/ESports.pbix)
+
 This comprehensive Power BI report provides an in-depth analysis of EA Sports sales data, highlighting key metrics and trends. The analysis focuses on several critical aspects of the sales performance, including:
 
 Top 10 Games by Total Earnings All Time: This section showcases the top 10 highest-grossing EA Sports games of all time. It provides a detailed view of the total earnings for each game, allowing for a clear understanding of the most financially successful titles in the EA Sports catalog.
